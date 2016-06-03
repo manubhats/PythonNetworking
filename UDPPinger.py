@@ -1,4 +1,4 @@
-__author__ = 'Manu Bhat, UTA ID : 1001101773'
+__author__ = 'Manu Bhat'
 
 import socket
 from socket import AF_INET, SOCK_DGRAM
